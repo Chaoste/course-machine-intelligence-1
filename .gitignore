@@ -1,1 +1,3 @@
 venv
+*.whl
+/**/.ipynb_checkpoints
