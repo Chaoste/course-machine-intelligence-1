@@ -1,3 +1,9 @@
-venv
+Ex11/output/
+Ex11/model/
+
+venv/
 *.whl
 /**/.ipynb_checkpoints
+
+/**/__pycache__/
+*.py[cod]

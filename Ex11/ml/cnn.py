@@ -107,6 +107,7 @@ class CNN(Algorithm):
               print('Model loaded')
             else:
               print('No checkpoint file found')
+        return self
 
     def eval(self, test_data):
         predictions = self.y_conv.eval(session=self.sess, feed_dict={self.x: test_data, self.keep_prob: 1.0})

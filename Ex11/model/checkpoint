@@ -1,2 +1,2 @@
-model_checkpoint_path: "C:\\Users\\Thomas\\Documents\\Uni\\course-machine-intelligence-1\\Ex11\\mnist_cnn_200"
-all_model_checkpoint_paths: "C:\\Users\\Thomas\\Documents\\Uni\\course-machine-intelligence-1\\Ex11\\mnist_cnn_200"
+model_checkpoint_path: "C:\\Users\\Thomas\\Documents\\Uni\\course-machine-intelligence-1\\Ex11\\model\\mnist_cnn_250"
+all_model_checkpoint_paths: "C:\\Users\\Thomas\\Documents\\Uni\\course-machine-intelligence-1\\Ex11\\model\\mnist_cnn_250"
