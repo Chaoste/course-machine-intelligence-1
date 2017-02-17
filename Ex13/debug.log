@@ -1,0 +1,13 @@
+[0203/183910:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0203/183910:ERROR:exception_snapshot_win.cc(87)] thread ID 4920 not found in process
+[0203/183910:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:process_reader_win.cc(142)] SuspendThread: Zugriff verweigert (0x5)
+[0204/094435:ERROR:exception_snapshot_win.cc(87)] thread ID 10076 not found in process
+[0204/094435:WARNING:crash_report_exception_handler.cc(61)] ProcessSnapshotWin::Initialize failed
